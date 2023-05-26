@@ -1,0 +1,10 @@
+.csv: 0
+.txt: 8
+.tsv: 2
+.gz: 5
+.png: 6
+.csv: 0
+.txt: 8
+.tsv: 2
+.gz: 5
+.png: 6
