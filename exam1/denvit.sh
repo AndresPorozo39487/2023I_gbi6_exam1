@@ -7,7 +7,7 @@ base_folder="data/denvint"
 output_file="denint.csv"
 
 # Array con los nombres de los archivos .csv
-csv_files=("archivo1.csv" "archivo2.csv" "archivo3.csv" "archivo4.csv")
+csv_files=("S1.csv" "S2.csv" "S3.csv" "S4.csv")
 
 # Crear el archivo de salida y escribir el encabezado
 echo "Archivo,Filas,Columnas" > "$output_file"
